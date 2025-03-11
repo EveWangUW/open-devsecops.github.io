@@ -7,7 +7,7 @@ has_toc: false
 has_sidetoc: true
 ---
 
-# DevOps Lab Infrastructure Setup Guide on AWS
+# DevOps Lab Infrastructure Setup Guide on AWS 💗
 **Estimated Cost:** ~$1/day
 {: .label .label-yellow }
 
