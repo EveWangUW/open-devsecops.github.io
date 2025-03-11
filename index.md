@@ -44,3 +44,20 @@ Contributions are welcome! Help us keep the curriculum relevant and effective by
 - [Eric Kim](https://www.linkedin.com/in/taehyunnkim/)
 - [Mari Woodworth](https://www.linkedin.com/in/marikowoodworth/)
 - [Brandon Mendoza](https://www.linkedin.com/in/bwmendo/)
+
+---
+
+## 📌 Click Below to See an Interactive Popup
+<button onclick="openModal()">Open Popup</button>
+
+<div id="popupModal" class="modal">
+    <div class="modal-content">
+        <span class="close-btn" onclick="closeModal()">&times;</span>
+        <h2>Interactive Image</h2>
+        <div class="image-container">
+            <img src="your-image-url.jpg" alt="Interactive Image">
+            <button class="btn-on-image btn1" onclick="buttonAction('Button 1')">Click Me 1</button>
+            <button class="btn-on-image btn2" onclick="buttonAction('Button 2')">Click Me 2</button>
+        </div>
+    </div>
+</div>
