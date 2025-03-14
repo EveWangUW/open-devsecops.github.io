@@ -47,17 +47,17 @@ Contributions are welcome! Help us keep the curriculum relevant and effective by
 
 ---
 
-## 📌 Click Below to See an Interactive Popup
-<button onclick="openModal()">Open Popup</button>
+## 💻 DevSecOps Board Game
+<button onclick="openModal()">Open Board Game</button>
 
 <div id="popupModal" class="modal">
     <div class="modal-content">
         <span class="close-btn" onclick="closeModal()">&times;</span>
-        <h2>Interactive Image</h2>
+        <h2>💻 DevSecOps Board Game</h2>
         <div class="image-container">
             <img src="your-image-url.jpg" alt="Interactive Image">
-            <button class="btn-on-image btn1" onclick="buttonAction('Button 1')">Click Me 1</button>
-            <button class="btn-on-image btn2" onclick="buttonAction('Button 2')">Click Me 2</button>
+            <button class="btn-on-image btn1" onclick="buttonAction('Button 1')">Button 1</button>
+            <button class="btn-on-image btn2" onclick="buttonAction('Button 2')">Button 2</button>
         </div>
     </div>
 </div>
