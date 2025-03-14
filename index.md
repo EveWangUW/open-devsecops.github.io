@@ -3,6 +3,22 @@ title: Home
 layout: custom
 nav_order: 0
 ---
+
+## 💻 DevSecOps Board Game
+<button onclick="openModal()">Open Board Game</button>
+
+<div id="popupModal" class="modal">
+    <div class="modal-content">
+        <span class="close-btn" onclick="closeModal()">&times;</span>
+        <h2>💻 DevSecOps Board Game</h2>
+        <div class="image-container">
+            <img src="your-image-url.jpg" alt="Interactive Image">
+            <button class="btn-on-image btn1" onclick="buttonAction('Button 1')">Button 1</button>
+            <button class="btn-on-image btn2" onclick="buttonAction('Button 2')">Button 2</button>
+        </div>
+    </div>
+</div>
+---
 # DevSecOps Curriculum 💻
 >> Made by 2024 University of Washington Informatics Capstone Team Info Innovators
 
@@ -44,20 +60,3 @@ Contributions are welcome! Help us keep the curriculum relevant and effective by
 - [Eric Kim](https://www.linkedin.com/in/taehyunnkim/)
 - [Mari Woodworth](https://www.linkedin.com/in/marikowoodworth/)
 - [Brandon Mendoza](https://www.linkedin.com/in/bwmendo/)
-
----
-
-## 💻 DevSecOps Board Game
-<button onclick="openModal()">Open Board Game</button>
-
-<div id="popupModal" class="modal">
-    <div class="modal-content">
-        <span class="close-btn" onclick="closeModal()">&times;</span>
-        <h2>💻 DevSecOps Board Game</h2>
-        <div class="image-container">
-            <img src="your-image-url.jpg" alt="Interactive Image">
-            <button class="btn-on-image btn1" onclick="buttonAction('Button 1')">Button 1</button>
-            <button class="btn-on-image btn2" onclick="buttonAction('Button 2')">Button 2</button>
-        </div>
-    </div>
-</div>
