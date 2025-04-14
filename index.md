@@ -10,7 +10,7 @@ nav_order: 0
 <div id="popupModal" class="modal">
     <div class="modal-content">
         <span class="close-btn" onclick="closeModal()">&times;</span>
-        <h2>💻 DevSecOps Board Game</h2>
+        <h2>💻 DevSecOps Board Game 2</h2>
         <div class="image-container">
             <img src="your-image-url.jpg" alt="Interactive Image">
             <button class="btn-on-image btn1" onclick="buttonAction('Button 1')">Button 1</button>
