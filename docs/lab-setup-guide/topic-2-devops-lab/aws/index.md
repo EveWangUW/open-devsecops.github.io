@@ -39,6 +39,7 @@ Before setting up the infrastructure for the CI/CD labs on AWS, ensure that you 
 2. Navigate to `IAM > Users`.
 3. Click `Create user`.
 ![aws iam page](./assets/aws-iam.png)
+4. 
 4. Enter the desired user name, click next, and attach the `AdministratorAccess` policy.
 ![aws iam permissions page](./assets/aws-iam-perm.png)
 5. After creation, click on the new user and navigate to the `Security credentials` tab, and click `Create access key`.
